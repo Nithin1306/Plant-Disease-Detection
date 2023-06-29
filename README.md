@@ -1,4 +1,4 @@
-
+# First and Foremost thing is that we need to go to the directory Frontend where React code is present and run the following commands
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
